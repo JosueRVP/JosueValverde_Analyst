@@ -37,5 +37,5 @@ Egresado profesional con enfoque en la **transformación de datos y análisis es
 ---
 
 ## 📫 Contacto
-* [LinkedIn](TU_LINK_AQUI)
-* [Email](TU_CORREO_AQUI)
+* [LinkedIn](www.linkedin.com/in/josué-valverde-pariasca-0b6946145)
+* [Email](josue97rafael@gmail.com)
