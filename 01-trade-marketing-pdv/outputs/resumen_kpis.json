@@ -1,0 +1,39 @@
+{
+  "cobertura_global": 0.756,
+  "oos_global": 0.09,
+  "cumplimiento_precio": 0.76,
+  "exhibicion": 0.855,
+  "sellout_soles": 51357889,
+  "venta_perdida_soles": 3483401,
+  "venta_perdida_pct": 0.068,
+  "oos_por_grupo_cobertura": {
+    "< 70%": {
+      "tiendas": 19,
+      "oos": 0.129
+    },
+    "70–85%": {
+      "tiendas": 36,
+      "oos": 0.083
+    },
+    "≥ 85%": {
+      "tiendas": 17,
+      "oos": 0.06
+    }
+  },
+  "corr_cobertura_oos": -0.89,
+  "perdida_por_categoria": {
+    "Pilas": 319756,
+    "Hogar": 619791,
+    "Mascotas": 841656,
+    "Cuidado personal": 1702198
+  },
+  "personal_bajo_70": [
+    "P05",
+    "P19",
+    "P15",
+    "P14",
+    "P26",
+    "P27",
+    "P21"
+  ]
+}

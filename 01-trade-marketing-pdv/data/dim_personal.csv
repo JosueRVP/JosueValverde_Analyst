@@ -1,0 +1,31 @@
+personal_id,rol,zona,disciplina
+P01,Mercaderista,Lima Norte,0.795
+P02,Mercaderista,Lima Sur,0.846
+P03,Mercaderista,Lima Centro,0.707
+P04,Mercaderista,Lima Este,0.74
+P05,Mercaderista,Provincias,0.348
+P06,Mercaderista,Lima Norte,0.823
+P07,Mercaderista,Lima Sur,0.793
+P08,Mercaderista,Lima Centro,0.801
+P09,Mercaderista,Lima Este,0.825
+P10,Mercaderista,Provincias,0.85
+P11,Mercaderista,Lima Norte,0.866
+P12,Mercaderista,Lima Sur,0.789
+P13,Mercaderista,Lima Centro,0.705
+P14,Mercaderista,Lima Este,0.62
+P15,Mercaderista,Provincias,0.491
+P16,Mercaderista,Lima Norte,0.722
+P17,Mercaderista,Lima Sur,0.798
+P18,Mercaderista,Lima Centro,0.971
+P19,Promotor,Lima Este,0.505
+P20,Promotor,Provincias,0.945
+P21,Promotor,Lima Norte,0.588
+P22,Promotor,Lima Sur,0.632
+P23,Promotor,Lima Centro,0.936
+P24,Promotor,Lima Este,0.789
+P25,Promotor,Provincias,0.883
+P26,Promotor,Lima Norte,0.682
+P27,Promotor,Lima Sur,0.626
+P28,Promotor,Lima Centro,0.71
+P29,Promotor,Lima Este,0.974
+P30,Promotor,Provincias,0.877

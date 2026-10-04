@@ -1,0 +1,73 @@
+tienda_id,cadena,formato,zona,factor_trafico,personal_id
+T001,Cadena B,Hiper,Lima Norte,1.78,P01
+T002,Cadena A,Super,Lima Norte,1.12,P06
+T003,Cadena A,Express,Lima Norte,0.58,P11
+T004,Cadena C,Super,Lima Norte,1.17,P16
+T005,Cadena B,Super,Lima Norte,1.01,P21
+T006,Cadena A,Express,Lima Norte,0.51,P26
+T007,Cadena A,Super,Lima Norte,1.01,P01
+T008,Cadena B,Super,Lima Norte,0.81,P06
+T009,Cadena A,Super,Lima Norte,0.88,P11
+T010,Cadena A,Super,Lima Norte,0.92,P16
+T011,Cadena C,Hiper,Lima Norte,2.01,P21
+T012,Cadena A,Super,Lima Norte,1.18,P26
+T013,Cadena A,Super,Lima Norte,1.16,P01
+T014,Cadena B,Super,Lima Norte,0.93,P06
+T015,Cadena B,Super,Lima Norte,0.89,P11
+T016,Cadena B,Super,Lima Norte,0.88,P16
+T017,Cadena B,Super,Lima Norte,1.05,P21
+T018,Cadena A,Super,Lima Norte,1.0,P26
+T019,Cadena B,Super,Lima Sur,1.03,P02
+T020,Cadena A,Super,Lima Sur,1.12,P07
+T021,Cadena A,Super,Lima Sur,1.0,P12
+T022,Cadena C,Hiper,Lima Sur,2.15,P17
+T023,Cadena A,Hiper,Lima Sur,1.97,P22
+T024,Cadena B,Super,Lima Sur,0.97,P27
+T025,Cadena C,Express,Lima Sur,0.64,P02
+T026,Cadena A,Super,Lima Sur,1.18,P07
+T027,Cadena A,Hiper,Lima Sur,1.64,P12
+T028,Cadena A,Super,Lima Sur,0.84,P17
+T029,Cadena B,Hiper,Lima Sur,1.79,P22
+T030,Cadena B,Super,Lima Sur,1.16,P27
+T031,Cadena A,Express,Lima Sur,0.65,P02
+T032,Cadena B,Express,Lima Sur,0.59,P07
+T033,Cadena C,Super,Lima Sur,0.89,P12
+T034,Cadena C,Super,Lima Sur,0.85,P17
+T035,Cadena A,Super,Lima Centro,1.11,P03
+T036,Cadena B,Hiper,Lima Centro,2.06,P08
+T037,Cadena A,Super,Lima Centro,1.06,P13
+T038,Cadena B,Super,Lima Centro,0.85,P18
+T039,Cadena A,Super,Lima Centro,0.83,P23
+T040,Cadena A,Super,Lima Centro,1.01,P28
+T041,Cadena C,Super,Lima Centro,0.94,P03
+T042,Cadena A,Super,Lima Centro,0.85,P08
+T043,Cadena C,Super,Lima Centro,0.99,P13
+T044,Cadena C,Super,Lima Centro,1.08,P18
+T045,Cadena C,Super,Lima Centro,0.89,P23
+T046,Cadena B,Super,Lima Centro,1.14,P28
+T047,Cadena B,Super,Lima Centro,1.04,P03
+T048,Cadena A,Super,Lima Centro,0.94,P08
+T049,Cadena A,Express,Lima Este,0.47,P04
+T050,Cadena A,Super,Lima Este,0.91,P09
+T051,Cadena A,Express,Lima Este,0.57,P14
+T052,Cadena B,Hiper,Lima Este,1.53,P19
+T053,Cadena A,Express,Lima Este,0.48,P24
+T054,Cadena B,Express,Lima Este,0.54,P29
+T055,Cadena B,Hiper,Lima Este,1.7,P04
+T056,Cadena C,Hiper,Lima Este,1.46,P09
+T057,Cadena A,Hiper,Lima Este,1.59,P14
+T058,Cadena B,Super,Lima Este,1.18,P19
+T059,Cadena A,Express,Lima Este,0.63,P24
+T060,Cadena C,Hiper,Lima Este,1.65,P29
+T061,Cadena B,Super,Provincias,1.14,P05
+T062,Cadena A,Express,Provincias,0.58,P10
+T063,Cadena A,Super,Provincias,1.07,P15
+T064,Cadena A,Super,Provincias,1.02,P20
+T065,Cadena B,Super,Provincias,1.06,P25
+T066,Cadena C,Super,Provincias,0.87,P30
+T067,Cadena A,Super,Provincias,1.11,P05
+T068,Cadena A,Super,Provincias,1.1,P10
+T069,Cadena B,Express,Provincias,0.46,P15
+T070,Cadena C,Hiper,Provincias,2.07,P20
+T071,Cadena B,Hiper,Provincias,1.63,P25
+T072,Cadena A,Super,Provincias,0.91,P30

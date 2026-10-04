@@ -1,0 +1,41 @@
+sku_id,categoria,descripcion,precio_sugerido,rotacion_base
+S001,Pilas,Pilas 01,8.5,46.18
+S002,Pilas,Pilas 02,10.9,14.04
+S003,Pilas,Pilas 03,9.7,27.16
+S004,Pilas,Pilas 04,11.3,27.23
+S005,Pilas,Pilas 05,9.7,19.92
+S006,Pilas,Pilas 06,10.8,44.64
+S007,Pilas,Pilas 07,10.6,41.51
+S008,Pilas,Pilas 08,6.6,17.9
+S009,Cuidado personal,Cuidado personal 01,108.5,12.97
+S010,Cuidado personal,Cuidado personal 02,76.4,10.79
+S011,Cuidado personal,Cuidado personal 03,60.1,18.24
+S012,Cuidado personal,Cuidado personal 04,66.1,12.7
+S013,Cuidado personal,Cuidado personal 05,101.0,19.89
+S014,Cuidado personal,Cuidado personal 06,119.5,11.14
+S015,Cuidado personal,Cuidado personal 07,46.7,4.94
+S016,Cuidado personal,Cuidado personal 08,77.0,5.13
+S017,Cuidado personal,Cuidado personal 09,45.0,9.88
+S018,Cuidado personal,Cuidado personal 10,119.3,5.82
+S019,Cuidado personal,Cuidado personal 11,44.4,25.82
+S020,Cuidado personal,Cuidado personal 12,87.9,17.09
+S021,Mascotas,Mascotas 01,23.7,32.68
+S022,Mascotas,Mascotas 02,44.2,17.5
+S023,Mascotas,Mascotas 03,44.6,16.22
+S024,Mascotas,Mascotas 04,26.5,27.28
+S025,Mascotas,Mascotas 05,33.3,10.09
+S026,Mascotas,Mascotas 06,29.0,5.6
+S027,Mascotas,Mascotas 07,40.9,17.6
+S028,Mascotas,Mascotas 08,13.5,39.94
+S029,Mascotas,Mascotas 09,45.0,21.55
+S030,Mascotas,Mascotas 10,26.2,21.94
+S031,Hogar,Hogar 01,9.2,12.1
+S032,Hogar,Hogar 02,16.0,20.07
+S033,Hogar,Hogar 03,24.9,10.32
+S034,Hogar,Hogar 04,11.4,33.35
+S035,Hogar,Hogar 05,27.6,29.49
+S036,Hogar,Hogar 06,24.6,33.68
+S037,Hogar,Hogar 07,20.0,29.77
+S038,Hogar,Hogar 08,17.8,17.47
+S039,Hogar,Hogar 09,28.1,17.01
+S040,Hogar,Hogar 10,24.7,19.7
