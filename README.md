@@ -21,6 +21,8 @@ Modelo de KPIs de trade marketing para 72 tiendas, 30 personas de campo y 40 SKU
 - Demostré que las tiendas con cobertura menor a 70% duplican el OOS de las que superan 85% (12.9% vs. 6.0%).
 - Dashboard interactivo con KPIs, scorecard por tienda y cumplimiento de precio por cadena.
 
+**[▶ Ver dashboard en vivo](https://josuervp.github.io/JosueValverde_Analyst/01-trade-marketing-pdv/dashboard/)**
+
 [![Cobertura vs OOS](01-trade-marketing-pdv/outputs/charts/01_cobertura_vs_oos.png)](01-trade-marketing-pdv)
 
 ### 2. [Pipeline de datos de e-commerce con dbt y BigQuery](https://github.com/JosueRVP/gz-dbt-repository)

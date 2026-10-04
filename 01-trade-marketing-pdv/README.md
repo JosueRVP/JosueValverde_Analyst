@@ -45,7 +45,7 @@ Cuidado personal concentra casi la mitad de la venta perdida (S/ 1.70 M) por su 
 ## Dashboard interactivo
 
 [`dashboard/index.html`](dashboard/index.html) incluye tarjetas de KPI, dispersión por tienda con detalle al pasar el mouse, OOS semanal por zona, venta perdida por categoría y mapa de calor de cumplimiento de precio por cadena.
-Descárgalo y ábrelo en el navegador, o míralo publicado en GitHub Pages si está activo en el repositorio.
+**[▶ Ver dashboard en vivo](https://josuervp.github.io/JosueValverde_Analyst/01-trade-marketing-pdv/dashboard/)**
 
 ## Modelo de datos
 
